@@ -1,6 +1,6 @@
 # 4.1: Create a data.frame for the air quality data set
 air_quality <- data.frame(
-  city = c("Seoul", "Incheon", "Tegu", "Chonbuk", "Daejon", "Yeosu", NA, "Jeju", "Kimhe", "Gwangju"),
+  city = c("New York", "Los Angeles", "Chicago", "Houston", "Philadelphia", "Phoenix", NA, "San Antonio", "San Diego", "Dallas"),
   PM2_5 = c(12, 14, 15, 11, 13, 16, 10, 12, 9, 14),
   PM10 = c(28, 32, 35, 29, 31, 38, 27, 30, 25, 33),
   NO2 = c(36, 42, 48, 39, 41, 46, 38, 40, 35, 44),
